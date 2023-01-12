@@ -10,3 +10,8 @@ User can search the books they want by using author, fill in the author in the i
 Then it will display the results.
 
 This system also has implement the cron job for every 10 minutes. 
+
+Example Author to search - 
+1 - JK Rowling
+2 - 릴리
+3 - Юрий
