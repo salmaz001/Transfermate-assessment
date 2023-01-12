@@ -24,4 +24,12 @@ Example Author to search -
 2 - 릴리
 3 - Юрий
 
+The main page
 <img width="662" alt="image" src="https://user-images.githubusercontent.com/36926384/212166207-71709585-83ac-4853-861f-8cfa2b9c7ddb.png">
+
+Result after search
+<img width="910" alt="image" src="https://user-images.githubusercontent.com/36926384/212166301-d43375ff-cac0-4cbc-8a63-cf835e4a709c.png">
+
+Error message
+<img width="574" alt="image" src="https://user-images.githubusercontent.com/36926384/212166403-72665098-2c7a-43c8-8bce-9ccf5558d071.png">
+
